@@ -1,10 +1,10 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">⚡ Welcome</h1>
 <h3 align="center">Nothingness1312 | Cyber Security Enthusiast</h3>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Digital+Forensics;CTF+Player;Learning+by+Doing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Web+Exploitation;Digital+Forensics;CTF+Player;Learning+by+Breaking" />
 </div>
 
 ###
@@ -42,11 +42,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Nothingness1312&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nothingness1312&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
 
 ###
 
 <p align="center">
-💣 Building RCE Lab Platform • 🧪 CTF Player • 🔍 Vulnerability Research
+💣 RCE Lab Platform • 🧪 CTF Player • 🔍 Vulnerability Research
 </p>
