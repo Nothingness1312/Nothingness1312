@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Web+Exploitation;RCE+Enjoyer;CTF+Player;Learning+by+Breaking" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Digital+Forensics;CTF+Player;Learning+by+Doing" />
 </div>
 
 ###
@@ -27,7 +27,7 @@
   <a href="https://kkarinzzz.my.id">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" height="25" />
   </a>
-  <a href="https://discord.gg/2ZywZcU2zu">
+  <a href="https://discord.gg/nH94vYstKA">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" />
   </a>
 </div>
