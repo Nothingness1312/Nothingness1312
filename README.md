@@ -1,8 +1,8 @@
-<h1 align="center">⚡ Nothingness1312</h1>
+<h1 align="center">Nothingness1312</h1>
 <h3 align="center">Cyber Security Enthusiast | CTF Player</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Web+Exploitation;RCE+Enjoyer;CTF+Player;Learning+by+Breaking" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Web+Exploitation;CTF+Player;Learning+by+Doing" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 - 🔭 Building: RCE Lab Platform
 - 🌱 Learning: Web Exploitation & Privilege Escalation
 - 💣 Focus: Vulnerability Research
-- ⚡ Fun fact: I break things to understand them
 
 ---
 
