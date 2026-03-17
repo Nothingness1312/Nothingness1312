@@ -8,9 +8,10 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Building: RCE Lab Platform
-- 🌱 Learning: Web Exploitation & Privilege Escalation
-- 💣 Focus: Vulnerability Research
+- 🔭 Lagi ngerjain: RCE Lab Platform (biar bisa latihan exploitasi sendiri)
+- 🌱 Lagi belajar: Web Exploitation sama Privilege Escalation
+- 💣 Fokus: Vulnerability Research
+- 🌐 Website: [kkarinzzz.my.id](https://kkarinzzz.my.id) — masih proses, pelan-pelan aja
 
 ---
 
